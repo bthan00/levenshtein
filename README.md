@@ -19,3 +19,5 @@ Compared to a manual 2 week business mapping for the 2017 School board sector, t
 ## Next Steps
 
 The script to partition datasets is coming soon. It was originally written in Julia.
+
+The output of the calculated .csv can be imported into PowerBI to present business users with a friendly interface to verify mappings.
